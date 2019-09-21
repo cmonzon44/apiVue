@@ -1,0 +1,2 @@
+﻿agregar a las referencias entity framework core
+agregar a las referencias entity framework core tools
